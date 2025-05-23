@@ -3,7 +3,7 @@ pipeline {
 
   environment {
     // Email Extension uses these if set in Jenkins global config
-    EMAIL_RECIPIENT = 'youremail@example.com'  // Replace with your email
+    EMAIL_RECIPIENT = 'sanjevk5826@example.com'  // Replace with your email
   }
 
   stages {
